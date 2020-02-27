@@ -1,4 +1,5 @@
 import scsp
+import CRuntime
 
 struct fdary {
     var tfext = "Hello,d World!"
